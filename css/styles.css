@@ -11508,3 +11508,10 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+
+.services-section{
+  background-color: #676974;
+  /* /* padding-top:15rem !important; */
+  padding-bottom:5rem !important; 
+}
